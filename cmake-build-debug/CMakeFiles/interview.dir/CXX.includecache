@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yy/Documents/interview/main.cpp
+map
+-
+set
+-
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+stack
+-
+queue
+-
+deque
+-
+
